@@ -1,7 +1,4 @@
-/* Основные стили проекта. Это стили для темы, которую вы верстаете первой. */
-
 .page {
-  /* сохраните в разметке и стилях класс page у тега body. Он удобен, чтобы составлять селекторы для разных цветовых тем. */
   background-image: var(--bg-image);
   background-color: var(--bg-color);
   background-size: cover;
@@ -11,7 +8,8 @@
   font-size: var(--font-size);
   font-weight: 700;
   line-height: 1.46rem;
-  padding: 0 0.6rem;
+  padding-inline-start: 0.6rem;
+  padding-inline-end: 0.6rem;
 }
 
 .decorated-zone {
