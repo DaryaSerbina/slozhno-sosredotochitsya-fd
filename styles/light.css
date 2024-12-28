@@ -3,7 +3,6 @@
   --bg-color: rgb(255, 241, 247);
   --accent-text-color: rgb(53, 52, 48);
   --accent-bg-color: rgb(255, 141, 203);
-  --subtitle-color: rgb(53, 52, 48);
   --title-color: rgb(53, 52, 48);
   --brand-color: rgb(255, 194, 230);
   --bg-image: url(../images/cover-image-light.png);
@@ -22,7 +21,6 @@
     --bg-color: rgb(255, 241, 247);
     --accent-text-color: rgb(53, 52, 48);
     --accent-bg-color: rgb(255, 141, 203);
-    --subtitle-color: rgb(53, 52, 48);
     --title-color: rgb(53, 52, 48);
     --brand-color: rgb(255, 194, 230);
     --bg-image: url(../images/cover-image-light.png);
@@ -31,7 +29,7 @@
     --shadow-color: rgb(255, 141, 203);
   }
 
-  .theme-auto .header__rec {
+  .header__rec {
     display: none;
   }
 }

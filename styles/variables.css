@@ -4,7 +4,6 @@
   --text-color: rgb(241, 178, 206);
   --accent-bg-color: rgb(255, 0, 112);
   --title-color: rgb(255, 0, 112);
-  --subtitle-color: rgb(255, 0, 112);
   --brand-color: rgb(219, 0, 255);
   --bg-image: url(../images/cover-image-dark.png);
   --hover-color: rgba(255, 0, 112, 0.4);
@@ -15,4 +14,8 @@
   --font-size-title: 1.125rem;
   --font-size-brand-xs: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   --font-size-brand-s-m: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
+  --section-gap-xs: 3.125rem;
+  --section-gap-s-m: 5rem;
+  --padding-xs: 0 0.6rem;
+  --padding-s-m: 0 1.25rem;
 }
